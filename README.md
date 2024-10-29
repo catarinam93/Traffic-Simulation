@@ -1,5 +1,5 @@
 # Traffic Simulation
-Assignment of the course Introduction to Intelligent and Autonomous Systems (3rd year, 1st semester)
+Assignment of the course Introduction to Intelligent and Autonomous Systems (BSc in Artificial Intelligence and Data Science 3rd year, 1st semester)
 
 ## A little context
 ### Overview
